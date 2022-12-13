@@ -1,7 +1,6 @@
 package HomeWork_6_12_22;
 
 import java.util.Scanner;
-import java.util.Arrays;
 import java.lang.Math;
 
 public class program {
@@ -70,7 +69,6 @@ public class program {
                 seachCountElem(array[i], array);
                 resArray[i] = array[i];
             }
-        }
-        printArr(resArray);
-}
+        } 
+    }
 }
