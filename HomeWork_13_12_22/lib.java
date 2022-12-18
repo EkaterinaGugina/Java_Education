@@ -26,6 +26,9 @@ public class lib {
     }
     
     static void quickSort(int[] array, int start, int finish) {
+        /**
+        * Быстрая сортировка
+         */
             if ((array.length == 0) || (start >= finish))
                 return;   //завершить, если длина массива = 0 или все элементы переставлены по соотв.частям отн-но среднего 
 
