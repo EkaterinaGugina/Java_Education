@@ -14,8 +14,8 @@ public class program1 {
         // lenArray();
         System.out.println();
         // System.out.println(Arrays.toString(a));
-    }
-    
+        
+       }
     static int lenArray (){ 
         Scanner input = new Scanner(System.in);
         System.out.print("Введите размер массива: ");
